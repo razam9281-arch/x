@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://shaddowwatch-review-preview.onrender.com/sitemap.xml
